@@ -30,4 +30,4 @@ If the cells run without any error and prints `105`, **Congratulations! You have
 
 In case of any trouble, please contact
 - Atreyee Sinha [atreyee.sinha@umontpellier.fr]
-- Bruno Khelifi [khelifi@in2p3.fr>]
+- Bruno Khelifi [khelifi@in2p3.fr]
