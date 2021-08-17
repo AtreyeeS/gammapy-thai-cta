@@ -23,8 +23,8 @@ To check if everything is working fine, open a new terminal and type
 In the ipython window, type
 - from gammapy.data import DataStore
 - ds = DataStore.from_dir("$GAMMAPY_DATA/hess-dl3-dr1")
-- [5]: obs = ds.get_observations()
-- [6]: len(obs)
+- obs = ds.get_observations()
+- print(len(obs))
 
 If the cells run without any error and prints `105`, **Congratulations! You have correctly set-up gammapy**
 
